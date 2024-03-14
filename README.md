@@ -37,6 +37,7 @@ Selecione o idioma "English" e ao lado estará o recurso criado anteriormente
 ![10](https://github.com/igaovr/Microsoft-AI-Language-Studio/assets/147111827/c3e13f3b-54d9-4415-9cb1-02186c160b97)
 
 Insira um texto
+
 ![11](https://github.com/igaovr/Microsoft-AI-Language-Studio/assets/147111827/67ab4b42-0e13-4a89-877f-898ee90bd07e)
 
 Marque a checkbox antes de apertar em "RUN"
