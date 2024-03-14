@@ -8,6 +8,7 @@ No Marketplace procure por "Serviço de Idioma" ou "Language Service"
 ![2](https://github.com/igaovr/Microsoft-AI-Language-Studio/assets/147111827/fc8ba66d-a153-4c90-8b72-7a79b5d1b909)
 
 Clique em continuar
+
 ![3](https://github.com/igaovr/Microsoft-AI-Language-Studio/assets/147111827/b28e1b7e-dba0-42ec-89e6-c79eefbb4d2e)
 
 Na aba de Criar Idioma preencha da mesma maneira que na imagem, apenas altere o nome da sua instância pois deve ser único e validado pelo Azure
